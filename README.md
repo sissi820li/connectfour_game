@@ -1,0 +1,1 @@
+# This is the code for a Connect four game. First player to have four pieces connecting either vertically, horizontally, or diagonally wins. There are 3 rounds in total and based on first player to 2 wins. 
